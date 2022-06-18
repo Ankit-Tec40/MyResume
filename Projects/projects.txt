@@ -1,0 +1,52 @@
+1.Weather App
+	• Weather app which shows Weather Forecast of a city. 
+	• Designed in Kotlin and used volley library to fetch Weather data from weather API.
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/GetWeather
+
+2 Paint App
+	• Android App where user can draw and sketch on their screen. 
+	• Using Signature view Library for implementing drawing features. 
+	• Having various features like draw, erase, choose color, pen size, save.
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/Draw
+
+3 Notepad
+	• Text Editor Designed in Python which creates and edit text documents. 
+	• Having features like cut, copy, and paste.
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/Notepad
+
+4 Sudoku Player
+	• Designed Sudoku game app in Python which can be played by Keyboard and mouse. 
+	• It provides succession to the player whether input value is valid or not. 
+	• Having auto play option in which computer will play the game. 
+	• Auto player is implemented using backtracking algorithm which validate its each moves and moves forward.
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/Sudoku
+
+5 Flappy Bird Game
+	• Created a Game like Flappy Bird using python
+	• Used Pygame Library
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/FlappyBirdGame
+
+6 Fuzzy Controller
+	• Designed a fuzzy Logic Controller for Wheeled Mobile Robot
+	• Designed 49 Fuzzy rules
+	• Learned to use ML in Real world problems
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/FuzzyController
+
+7 Web browser
+	• Created Own Web Browser using Python
+	• Using PyQt5 library
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/Browser
+
+8 Agricultural Product Optimization
+	• Machine Learning Project Which Pridict Which Croups to be grown in a given condition.
+	• Ml Model take temperature, Humidity, Rainfall, Nitrogen, phosphorus, Potassium data for prediction.
+	• Model Provides 97% accuricy.
+	• GitHub link - https://github.com/Ankit-Tec40/MyProjects/tree/master/Optimizing%20Agricultural%20Production
+
+9 B2B Invoice Management System(done in Internship)
+	Technologies Used - Machine Learning, Python, Java, My SQL, REST API, Java Servlets, JDBC, HTML, CSS, JavaScript, React JS, Flask 
+
+	My Work:-
+		• Designed Machine Learning Model with 90% plus accuracy, which takes required inputs and predict the clear date for an Invoice.
+		• Designed Web app from which one can manage Customer’s data easily.
+		• GitHub link - Done in Internship
